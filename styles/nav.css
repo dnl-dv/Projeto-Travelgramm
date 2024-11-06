@@ -17,7 +17,7 @@ nav ul {
 nav ul li:last-child img {
     width: 40px;
     height: 40px;
-    /* object-fit: cover; */
+    object-fit: cover;
     border-radius: 50%;
 }
 
